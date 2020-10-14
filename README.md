@@ -1,0 +1,1 @@
+# sonar-multi-module-jacoco-report
